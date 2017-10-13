@@ -1,0 +1,50 @@
+blockquote {
+    margin-top: 1.25rem;
+    border-left: 0.1875rem solid #555;
+    padding: 0 0.625rem;
+    background: rgba(254, 254, 254, 0.5);
+    color: #777;
+    line-height: 1em;
+    font-size: 20px;
+}
+
+ul,
+ol {
+    margin-top: 0;
+    margin-bottom: -2rem;
+    padding-left: 1.25rem;
+    line-height: 1.125rem;
+}
+
+img:not(.bgImage) {
+    border: 1px solid #ccc;
+}
+
+code {
+    color: #fff;
+    background: #000;
+    font-family: Consolas;
+    padding: 0 0.3125rem;
+    border-radius: 0.3125rem;
+    overflow-x: auto;
+}
+
+hr {
+    margin: 0.625rem 0 0;
+}
+
+pre {
+    padding: 0.625rem 0.625rem;
+    background: #000;
+    border-radius: 0.3125rem;
+    overflow-x: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-bottom: 0.625rem;
+}
